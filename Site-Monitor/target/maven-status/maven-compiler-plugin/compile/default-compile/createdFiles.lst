@@ -1,0 +1,8 @@
+com\langton\sitedata\entity\Check.class
+com\langton\sitedata\SpringConfiguration.class
+com\langton\sitedata\service\initdbService.class
+com\langton\sitedata\MyWebAppInitializer.class
+com\langton\sitedata\service\HelloSpringService.class
+com\langton\sitedata\controller\CheckListController.class
+com\langton\sitedata\service\CheckService.class
+com\langton\sitedata\repository\CheckRepository.class
